@@ -2,17 +2,20 @@
 
 <img src="./assets/banner.svg" alt="Awesome Custom Predictive Modeling Banner" width="100%" />
 
-# Awesome Custom Predictive Modeling
+# 🚀 Awesome Custom Predictive Modeling
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Predictive-Modeling?style=social)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated index of enterprise SaaS platforms, AutoML ecosystems, automated feature engineering frameworks, and open-source machine learning libraries for custom predictive modeling.**
+**🌟 A curated index of enterprise SaaS platforms, AutoML ecosystems, automated feature engineering frameworks, and open-source machine learning libraries for custom predictive modeling.**
 
-[Explore SaaS Platforms](#saas-hosted-platforms) • [Sector Overview & Market Dynamics](#sector-overview--market-dynamics) • [Open-Source Ecosystem](#open-source-github-projects) • [Contributing](#how-to-contribute)
+[🏢 Explore SaaS Platforms](#-saas-hosted-platforms) • [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics) • [🛠️ Open-Source Ecosystem](#️-open-source-github-projects) • [🏗️ Architecture Blueprint](#️-architecture-blueprint-building-a-custom-predictive-platform) • [⭐ Star History](#-star-history) • [💖 Support](#-support) • [🤝 Contributing](#-how-to-contribute)
 
 </div>
 
@@ -20,23 +23,23 @@
 
 ## 📌 Overview
 
-**Custom Predictive Modeling** empowers businesses and developers to forecast outcomes, detect churn, score leads, predict risk, and forecast time-series metrics from tabular, multi-table, and relational datasets. Whether using enterprise-grade no-code AI platforms or self-hosted, code-first AutoML stacks, this ecosystem automates feature synthesis, model selection, hyperparameter tuning, model explainability (SHAP/LIME), and real-time inference serving.
+**Custom Predictive Modeling** empowers businesses and developers to forecast outcomes, detect churn, score leads, predict risk, and forecast time-series metrics from tabular, multi-table, and relational datasets. Whether using enterprise-grade no-code AI platforms or self-hosted, code-first AutoML stacks, this ecosystem automates feature synthesis, model selection, hyperparameter tuning, model explainability (SHAP/LIME), and real-time inference serving. 🎯
 
 ---
 
-## 📊 Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
-The global predictive analytics and predictive modeling market was valued at **$19.9B–$20.6B in 2025** and is projected to surpass **$65.2B–$82.3B by 2030**, growing at a rapid CAGR of **25.9% to 28.3%**.
+The global predictive analytics and predictive modeling market was valued at **$19.9B–$20.6B in 2025** and is projected to surpass **$65.2B–$82.3B by 2030**, growing at a rapid CAGR of **25.9% to 28.3%**. 🌐
 
-The sector is **moderately to highly fragmented** rather than winner-take-all: large cloud conglomerates (Microsoft, Salesforce, AWS, Google) compete alongside pure-play enterprise AI unicorns (DataRobot, Dataiku, H2O.ai) and niche specialized vendors focusing on verticalized domains, low-code operational intelligence, and self-hosted open-source pipelines.
+The sector is **moderately to highly fragmented** rather than winner-take-all: large cloud conglomerates (Microsoft, Salesforce, AWS, Google) compete alongside pure-play enterprise AI unicorns (DataRobot, Dataiku, H2O.ai) and niche specialized vendors focusing on verticalized domains, low-code operational intelligence, and self-hosted open-source pipelines. 💡
 
 ---
 
 ## 🏢 SaaS Hosted Platforms
 
-A comprehensive breakdown of leading custom predictive modeling SaaS platforms, ranked by **company size (market capitalization / enterprise valuation / ARR)** in descending order:
+A comprehensive breakdown of leading custom predictive modeling SaaS platforms, ranked by **company size (market capitalization / enterprise valuation / ARR)** in descending order: 📊
 
-| Company / Product | Size (Valuation / Revenue) | Starting Pricing | Free Tier / Free Trial Limits | Primary Strengths & Capabilities |
+| 🏢 Company / Product | 💼 Size (Valuation / Revenue) | 🏷️ Starting Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Primary Strengths & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Einstein Prediction Builder](https://help.salesforce.com/)** | **~$188B** Market Cap (CRM) | **$165 / user / month** *(via CRM Analytics Plus; Enterprise / Unlimited Edition required)* | **"Try Einstein" Free Tier** *(Limited to building up to 10 predictions and enabling 1 active prediction at a time on standard/custom objects)* | Point-and-click predictive modeling directly embedded into Salesforce CRM workflows. Min. 400 training records. |
 | **[DataRobot](https://www.datarobot.com/)** | **$6.3B** Valuation (Series G) | **~$100,000 / year** *(Custom enterprise subscription; ~$8,333/mo equivalent)* | **30-Day Free Trial** *(Full Workbench access, limited shared worker threads and compute credits, capped vector stores)* | End-to-end enterprise AutoML, MLOps, model registry, monitoring, and generative AI guardrails. |
@@ -53,9 +56,9 @@ A comprehensive breakdown of leading custom predictive modeling SaaS platforms, 
 
 ## 🛠️ Open-Source GitHub Projects
 
-The premier open-source predictive modeling libraries, AutoML frameworks, automated feature engineering suites, and production MLOps tools. **Sorted strictly by GitHub Star Count (descending)**:
+The premier open-source predictive modeling libraries, AutoML frameworks, automated feature engineering suites, and production MLOps tools. **Sorted strictly by GitHub Star Count (descending)**: 🌟
 
-| Rank | Framework / Project | Stars | License | Core Predictive Focus & Architecture |
+| 🔢 Rank | 📦 Framework / Project | ⭐ Stars | 📜 License | 🧠 Core Predictive Focus & Architecture |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** | [![Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | BSD-3-Clause | The gold standard foundational machine learning library for Python. Classification, regression, clustering, preprocessing, and model evaluation pipelines. |
 | 2 | **[XGBoost](https://github.com/dmlc/xgboost)** | [![Stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Apache-2.0 | Optimized distributed gradient boosting library engineered to be highly efficient, flexible, and portable across CPU, GPU, and distributed Spark clusters. |
@@ -78,7 +81,7 @@ The premier open-source predictive modeling libraries, AutoML frameworks, automa
 | 19 | **[InterpretML](https://github.com/interpretml/interpret)** | [![Stars](https://img.shields.io/github/stars/interpretml/interpret?style=social&color=white)](https://github.com/interpretml/interpret/stargazers) | MIT | Unified framework providing glass-box explainable models (Explainable Boosting Machine - EBM) and black-box explanation methods. |
 | 20 | **[FLAML](https://github.com/microsoft/FLAML)** | [![Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social&color=white)](https://github.com/microsoft/FLAML/stargazers) | MIT | Fast and lightweight AutoML library by Microsoft that optimizes cost-effective ML pipelines and multi-agent system tuning. |
 
-### Specialized Emerging Libraries & Utilities
+### 🔬 Specialized Emerging Libraries & Utilities
 
 - **[ClearML Serving](https://github.com/allegroai/clearml-serving)** — Production model serving infrastructure for deploying ML/AutoML models as scalable REST APIs.
 - **[features-goldmine](https://pypi.org/project/features-goldmine/)** — Automated feature engineering package generating candidate features via LightGBM tree paths and competitive validation.
@@ -90,7 +93,7 @@ The premier open-source predictive modeling libraries, AutoML frameworks, automa
 
 ## 🏗️ Architecture Blueprint: Building a Custom Predictive Platform
 
-Organizations looking to establish self-hosted, vendor-neutral predictive modeling platforms can combine these open-source tools:
+Organizations looking to establish self-hosted, vendor-neutral predictive modeling platforms can combine these open-source tools: 🛠️
 
 ```mermaid
 flowchart LR
@@ -105,20 +108,40 @@ flowchart LR
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Custom-Predictive-Modeling&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Custom-Predictive-Modeling&yype=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing **Awesome Custom Predictive Modeling**! 🙏
+
+If you find this repository valuable for your research, team, or projects, please consider supporting us:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and contribute new tools or updates.
+- 📢 **Share it** with fellow data scientists, machine learning engineers, and analysts.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## 🤝 How to Contribute
 
-1. **Fork the repository** to your personal GitHub account.
-2. **Add or update an entry**: Ensure SaaS entries include verified starting prices, free tier limits, and valuation/revenue metrics. Open-source entries must include license and official repository links.
-3. **Keep it objective**: Maintain factual, neutral descriptions without marketing hyperbole.
-4. **Submit a Pull Request** with a clear explanation of your additions.
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. ✍️ **Add or update an entry**: Ensure SaaS entries include verified starting prices, free tier limits, and valuation/revenue metrics. Open-source entries must include license and official repository links.
+3. ⚖️ **Keep it objective**: Maintain factual, neutral descriptions without marketing hyperbole.
+4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
 
 ---
 
 ## ⚖️ Disclaimer
 
-- This repository is a community-curated directory for educational and technical evaluation purposes; it does not constitute commercial endorsement.
-- All pricing, tier limits, and market capitalization/valuation figures are accurate as of March 2026 and are subject to vendor changes.
-- Machine learning models deployed into production should comply with ethical AI guidelines, regulatory standards (GDPR, CCPA), and appropriate data privacy laws.
+- 📋 This repository is a community-curated directory for educational and technical evaluation purposes; it does not constitute commercial endorsement.
+- 🕒 All pricing, tier limits, and market capitalization/valuation figures are accurate as of March 2026 and are subject to vendor changes.
+- 🛡️ Machine learning models deployed into production should comply with ethical AI guidelines, regulatory standards (GDPR, CCPA), and appropriate data privacy laws.
 
 ---
 
