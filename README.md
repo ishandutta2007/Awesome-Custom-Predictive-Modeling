@@ -8,7 +8,7 @@
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Predictive-Modeling?style=social)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Predictive-Modeling?style=social)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Custom-Predictive-Modeling/graphs/commit-activity)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,9 +56,9 @@ A comprehensive breakdown of leading custom predictive modeling SaaS platforms, 
 
 ## 🛠️ Open-Source GitHub Projects
 
-The premier open-source predictive modeling libraries, AutoML frameworks, automated feature engineering suites, and production MLOps tools. **Sorted strictly by GitHub Star Count (descending)**: 🌟
+The premier open-source predictive modeling libraries, AutoML frameworks, automated feature engineering suites, and production MLOps tools. **Sorted strictly by GitHub Stars_Count (descending)**: 🌟
 
-| 🔢 Rank | 📦 Framework / Project | ⭐ Stars | 📜 License | 🧠 Core Predictive Focus & Architecture |
+| 🔢 Rank | 📦 Framework / Project | ⭐ GitHub_Stars | 📜 License | 🧠 Core Predictive Focus & Architecture |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** | [![Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | BSD-3-Clause | The gold standard foundational machine learning library for Python. Classification, regression, clustering, preprocessing, and model evaluation pipelines. |
 | 2 | **[XGBoost](https://github.com/dmlc/xgboost)** | [![Stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Apache-2.0 | Optimized distributed gradient boosting library engineered to be highly efficient, flexible, and portable across CPU, GPU, and distributed Spark clusters. |
